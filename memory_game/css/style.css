@@ -1,6 +1,6 @@
 body {
-text-align: center;
-margin: 0;
+	text-align: center;
+	margin: 0;
 }
 
 h1, h2, a {
@@ -22,18 +22,18 @@ a:hover {
 	border-color: white;
 }
 header {
-background-color: #F15B31;
-color: #FFFFFF;
-padding: 30px 20px;
+	background-color: #F15B31;
+	color: #FFFFFF;
+	padding: 30px 20px;
 }
 
 h1 {
-font-family: "Raleway", sans-serif;
-font-weight: 400;
+	font-family: "Raleway", sans-serif;
+	font-weight: 400;
 
-font-size: 45px;
-letter-spacing: 1px;
-margin: 0;
+	font-size: 45px;
+	letter-spacing: 1px;
+	margin: 0;
 }
 nav {
 	background-color: #00A6B3;
@@ -57,9 +57,9 @@ img {
 }
 
 p {
-font-family: 'Bitter', serif;
-line-height: 26px;
-font-size: 18px;
+	font-family: 'Bitter', serif;
+	line-height: 26px;
+	font-size: 18px;
 }
 footer {
 	text-transform: uppercase;
@@ -81,18 +81,14 @@ footer {
 
 }
 .clearfix:after {
-visibility: hidden;
-display: block;
-content: " ";
-clear: both;
-height: 0;
-font-size: 0;
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
 }
 .name {
 	color: #F15B31;
 	font-weight: 700;
 }
-
-
-
-
